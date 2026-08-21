@@ -2,7 +2,7 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #fcf8f8;
+  --foreground: #1c0d0d;
 }
 
 @theme inline {
@@ -15,7 +15,7 @@
 @media (prefers-color-scheme: light) {
   :root {
     --background: #f0ebeb;
-    --foreground: #ededed;
+    --foreground: #0c0606;
   }
 }
 
